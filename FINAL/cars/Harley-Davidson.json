@@ -1,0 +1,32 @@
+{
+    "manufacter": {
+        "name": "Harley-Davidson", 
+        "country": "Inglaterra"
+    }, 
+    "engine": {
+        "gears": "6", 
+        "transmission": "Manual", 
+        "type": "Diesel"
+    }, 
+    "description": "The Legend of Motorcycles.",  
+    "id": "Harley-Davidson", 
+    "images": [
+        "img/cars/harley1.jpg",
+        "img/cars/harley2.jpg",
+		"img/cars/harley3.jpg",
+		"img/cars/harley4.jpg",
+		"img/cars/harley5.jpg"
+    ], 
+    "name": "Harley-Davidson", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "1783.9 mm (w)", 
+            "1595.8 mm (h)", 
+            "5222.4 mm (l)"
+        ], 
+        "weight": "3110.0 Kg"
+    }, 
+    "space": {
+        "volume": "1130L"
+    }
+}

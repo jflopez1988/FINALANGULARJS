@@ -1,0 +1,24 @@
+[
+
+    {
+        "model": 2015, 
+        "id": "Ducati", 
+        "imageUrl": "img/cars/Ducati1.jpg", 
+        "name": "DUCATI", 
+        "snippet": "Motorcycle Sport, The best on the Word."
+    },
+    {
+        "model": 2014, 
+        "id": "Kawasaki", 
+        "imageUrl": "img/cars/kawasaki-ninja1.jpg", 
+        "name": "Kawasaki Ninja", 
+        "snippet": "THE BEST MOTORCYCLE FOR RACE"
+    },
+    {
+        "model": 2015, 
+        "id": "Harley-Davidson", 
+        "imageUrl": "img/cars/Harley-Davidson1.jpg", 
+        "name": "Harley-Davidson", 
+        "snippet": "The Legend of Motorcycles."
+    }
+]

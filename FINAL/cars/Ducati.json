@@ -1,0 +1,31 @@
+{
+    "manufacter": {
+        "name": "DUCATI", 
+        "country": "Italia"
+    }, 
+    "engine": {
+        "gears": "6", 
+        "transmission": "Automatic", 
+        "type": "Diesel"
+    }, 
+    "description": "Motorcycle Sport, The best on the Word.",  
+    "id": "new-qashqai", 
+    "images": [
+        "img/cars/ducati1.jpg",
+        "img/cars/ducati2.jpg",
+        "img/cars/ducati3.jpg",
+		"img/cars/ducati4.jpg"
+    ], 
+    "name": "Ducati", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "1806.9 mm (w)", 
+            "1595.8 mm (h)", 
+            "4377.4 mm (l)"
+        ], 
+        "weight": "2646.0 Kg"
+    }, 
+    "space": {
+        "volume": "430L"
+    }
+}
